@@ -1,0 +1,14 @@
+a = {}
+print(a)
+
+dict1 = {
+    "a":"my",
+    "b":"name",
+    "c":"isss",
+    "d":"charan"
+}
+print(dict1)
+print(dict1["a"])
+dict1.pop("b")
+print(dict1)
+
